@@ -1,1 +1,5 @@
-
+{
+  "mensaje": "¡Hola desde JSON!",
+  "velocidad": 150,
+  "vida": 300
+}
